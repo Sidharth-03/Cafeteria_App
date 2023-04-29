@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">final_prac</string>
+<string-array name="order">
+    <item>Select the item you want to order</item>
+    <item>Coffee</item>
+    <item>Sandwich</item>
+</string-array>
+</resources>
